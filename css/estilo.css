@@ -1,0 +1,84 @@
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+#menu{
+    width: 100%;
+    background: red;
+   
+    
+    
+    
+}
+#menu a{
+        color: white;
+        text-decoration: none;
+        margin: 80px;
+        vertical-align:  middle;
+}
+#cabecalho{
+    width: 100%;
+}
+#conteudo{
+    min-height: 300px;
+}
+.sidebar{
+    width: 20%;
+    float: left;
+}
+.produtos{
+    width: 80%;
+    float: left;
+    
+}
+.produtos ul{
+    list-style: none;
+   
+   
+}
+.produtos ul li{
+    width: 20%;
+    height: 300px;
+   
+    display:inline-block;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 15px;
+    
+        
+     
+}
+.produtos ul li img{
+    width: 120px;
+}
+
+.produtos ul li p{
+    margin: 0;
+    padding: 0;
+    
+}
+.enderecos{
+    width: 33%;
+    float: left;
+    margin-bottom: 30px;
+}
+.contato{
+    width: 50%;
+    float: left;
+    height: 200px;
+}
+.destaque{
+    font-weight: bold;
+}
+#rodape{
+    text-align: center;
+}
+p.pagamento{
+    color:red;
+    font-weight: bold;
+}
+p.copy{
+    font-size: 14px;
+    
+}
